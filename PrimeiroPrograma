@@ -1,0 +1,8 @@
+package PrimeiroDemonstração;  // PACOTE 
+
+public class Principal { //CLASSE EM JAVA É UM BLOCO
+	public static void main(String[] args) {  // MÉTODO PRINCIPAL = "MAIN" 
+		System.out.print("Olá Mundo!"); // PRIMEIRO COMANDO PARA ESCREVER NA TELA
+
+	}
+}
