@@ -1,9 +1,7 @@
-# Conteudo de JAVA 
-Repositório destinado ao armazenamento e organização dos conteúdos, atividades e materiais desenvolvidos durante as aulas, reunindo registros e trabalhos realizados ao longo da disciplina para fins acadêmicos.
 
 # ☕ Guia de Estudos: Introdução e Fundamentos do Java
 
----
+
 
 ## 📑 Índice
 1. [Aula 01: História do Java](#-aula-01-história-do-java)
